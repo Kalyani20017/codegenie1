@@ -36,7 +36,7 @@ It is the perfect environment for both learning and professional coding.
 > Upload your image to the repo (e.g., `/images/login.png`)  
 > Then replace the path below.
 
-'''markdown
+```markdown
 ![CodeGenie Login UI](images/352011fc-513d-4e7c-98f9-09ed197f83d0.png)
 CodeGenie/
 │
@@ -55,7 +55,7 @@ CodeGenie/
 ├── .env.example                 # Environment variable template
 └── README.md
 
-'''
+```
 1. Clone the repository
 git clone https://github.com/yourusername/CodeGenie.git
 cd CodeGenie
