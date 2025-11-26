@@ -209,20 +209,7 @@ streamlit run app.py
 <img width="1596" height="728" alt="sign_up " src="https://github.com/user-attachments/assets/addf1aec-ad11-4ca3-ae0a-a7dbb7f44866" />
 
 
-### 3️⃣ AI Chat Assistant
-<img src="screenshots/ai_chat.png"/>
 
-### 4️⃣ Code Explainer
-<img src="screenshots/code_explainer.png"/>
-
-### 5️⃣ Code Generator
-<img src="screenshots/code_generator.png"/>
-
-### 6️⃣ History Page
-<img src="screenshots/history_page.png"/>
-
-### 7️⃣ Profile Page
-<img src="screenshots/profile_page.png"/>
 
 ### 8️⃣ Password Recovery Page
 <img width="1598" height="733" alt="password_recovery" src="https://github.com/user-attachments/assets/bf42bb11-35d9-477b-92f6-d27c3dbf3bc8" />
