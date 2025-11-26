@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen"/>
-  <img src="https://img.shields.io/badge/python-3.10%2B-blue"/>
+  <img src="https://img.shields.io/badge/python-3.10%2B-red"/>
   <img src="https://img.shields.io/badge/license-MIT-yellow"/>
 </p>
 
